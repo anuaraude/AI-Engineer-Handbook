@@ -17,6 +17,8 @@ This handbook will continue growing throughout the project.
 ## Documentation
 - [Git and GitHub Fundamentals](docs/git-and-github-fundamentals.md)
 
+- [Technical Glossary](docs/technical-glossary.md)
+
 ---
 
 ## Current Status
