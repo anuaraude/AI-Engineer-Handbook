@@ -15,15 +15,28 @@ This handbook will continue growing throughout the project.
 ---
 
 ## Documentation
+
+- [Software Engineering](docs/software-engineering.md)
+
 - [Git and GitHub Fundamentals](docs/git-and-github-fundamentals.md)
 
 - [Technical Glossary](docs/technical-glossary.md)
+
+- [Architecture Decision Records](docs/architecture-decision-records.md)
+
+
+The handbook currently consists of four complementary types of documentation:
+
+- Knowledge Documents
+- Technical Glossary
+- Architecture Decision Records
+- Weekly Engineering Log (planned)
 
 ---
 
 ## Current Status
 
-🚀 Project officially started: July 2026
+🚀 Current Phase: Engineering Foundations
 
 ---
 
